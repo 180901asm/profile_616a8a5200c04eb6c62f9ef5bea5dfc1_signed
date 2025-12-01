@@ -1,0 +1,1 @@
+``` https://raw.githubusercontent.com/180901asm/profile_616a8a5200c04eb6c62f9ef5bea5dfc1_signed/refs/heads/180901asm%40isesaki-school.ed.jp/profile_616a8a5200c04eb6c62f9ef5bea5dfc1_signed.mobileconfig ```
